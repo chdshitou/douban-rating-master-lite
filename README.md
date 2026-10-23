@@ -17,7 +17,7 @@
 ## 安装
 
 1. 先安装浏览器脚本管理器：[Tampermonkey](https://www.tampermonkey.net/)
-2. 点击 [douban-rating-master-lite.user.js](douban-rating-master-lite.user.js) 原始文件链接，Tampermonkey 会弹出安装页面
+2. 点击脚本直链 <https://github.com/chdshitou/douban-rating-master-lite/raw/main/douban-rating-master-lite.user.js>（或打开本仓库中的 `douban-rating-master-lite.user.js` 点 Raw），Tampermonkey 会弹出安装页面
 3. 安装后访问任意豆瓣影片页（如 <https://movie.douban.com/subject/36828393/>）即可看到效果
 
 ## 相对原版的改动
